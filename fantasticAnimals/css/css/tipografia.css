@@ -1,0 +1,21 @@
+/* texto do menu pricipal */
+.font-menu{
+    font: bold 0.875rem/0 'IBM Plex Mono', monospace;
+    letter-spacing: .1rem;
+    text-transform: uppercase;
+
+}
+/* texto do primeiro titulo */
+
+.font-titulo01{
+    font: 400 6rem/1 'Playfair Display SC', serif;
+}
+
+/* paragrafo */
+.paragrafo{
+    font: normal 1rem/1.2 'helvetica', arial;
+}
+
+.font-titulo02{
+    font: bold 1rem'IBM Plex Mono',monospace;
+}
